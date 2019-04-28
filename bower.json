@@ -1,0 +1,39 @@
+{
+  "name": "vanillajs-checkall",
+  "description": "One checkbox to rule them all (in Vanilla JavaScript)",
+  "main": "src/vanillajs-checkall.js",
+  "authors": [
+    "simivar"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "vanillajs",
+    "vanilla",
+    "javascript",
+    "checkall",
+    "checkbox",
+    "control"
+  ],
+  "homepage": "https://github.com/simivar/vanillajs-checkall",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "del": "^4.1.0",
+    "eslint": "^5.16.0",
+    "gulp": "^4.0.1",
+    "gulp-eslint": "^5.0.0",
+    "gulp-header": "^2.0.7",
+    "gulp-optimize-js": "^1.1.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-tap": "^1.0.1",
+    "gulp-terser": "^1.1.7",
+    "jest": "^24.7.1",
+    "lazypipe": "^1.0.2"
+  }
+}
