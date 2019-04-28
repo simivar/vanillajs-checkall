@@ -1,4 +1,4 @@
-# vanillajs-checkall
+# vanillajs-checkall [![Build Status](https://travis-ci.com/simivar/vanillajs-checkall.svg?branch=master)](https://travis-ci.com/simivar/vanillajs-checkall)
 One checkbox to rule them all (in Vanilla JavaScript)
 
 # docs
