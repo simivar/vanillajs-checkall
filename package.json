@@ -1,0 +1,28 @@
+{
+  "name": "vanillajs-checkall",
+  "version": "0.0.1",
+  "description": "One checkbox to rule them all (in Vanilla JavaScript)",
+  "main": "src/vanillajs-checkall.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": "git+https://github.com/simivar/vanillajs-checkall.git",
+  "keywords": [
+    "vanillajs",
+    "vanilla",
+    "javascript",
+    "checkall",
+    "checkbox",
+    "control"
+  ],
+  "author": "simivar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simivar/vanillajs-checkall/issues"
+  },
+  "homepage": "https://github.com/simivar/vanillajs-checkall#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "jest": "^24.7.1"
+  }
+}
