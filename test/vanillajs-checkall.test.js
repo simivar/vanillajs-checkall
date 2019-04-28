@@ -3,7 +3,7 @@
 let checkAll = require('../src/vanillajs-checkall.js');
 
 function initCheckAll(){
-    checkAll(
+    checkAll.init(
         document.getElementById('master'),
         document.getElementsByClassName('slave')
     );
